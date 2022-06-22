@@ -1,0 +1,62 @@
+#pricing {
+    padding-top: 3%;
+
+    .p-btn {
+        width: 80%;
+        background-color: #1abc9c;
+        border-radius: 30px;
+        margin-bottom: 20px;
+    }
+
+    .pricing-head {
+        h2 {
+            padding-left: 450px;
+            padding-bottom: 8%;
+            text-align: center;
+            color: black;
+            font-size: 2.8em;
+            line-height: 0.9em;
+            font-family: "Montserrat", Helvetica, Arial, sans-serif;
+        }
+    }
+
+    .pricing-items {
+        justify-content: center;
+        .items {
+            background-color: white;
+            margin-left: 2%;
+            width: 280px;
+            border: 2px solid gray;
+            border-radius: 5px;
+            text-align: center;
+            h2 {
+                font-size: 1.6em;
+                font-weight: 300;
+                margin: 0;
+                padding: 0.6em 0;
+                color: #1abc9c;
+            }
+
+            .p-circle {
+                margin-left: 30%;
+                p {
+                    text-align: center;
+                    font-size: 1.2em;
+                    font-weight: 700;
+                    line-height: 120px;
+                    width: 120px;
+                    height: 120px;
+                    text-align: center;
+                    color: #1abc9c;
+                    border: 2px solid#1abc9c;
+                    border-radius: 60px;
+                    background: transparent;
+                }
+            }
+            p{
+                color: gray;
+            }
+        }
+    }
+
+}

@@ -1,0 +1,29 @@
+#footer {
+    background-color: #2C2D31;
+
+    h1 {
+        color: white;
+        margin-bottom: 10%;
+    }
+
+    p {
+        color: white;
+    }
+
+    li {
+        color: white;
+    }
+
+    li:hover {
+        color: green;
+        transition: 0.6s
+    }
+    .f-items{
+        img{
+            width: 70px;
+            height: 70px;
+            border-radius: 8px;
+            margin: 5px;
+        }
+    }
+}

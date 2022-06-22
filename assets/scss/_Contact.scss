@@ -1,0 +1,41 @@
+#contact{
+   .contact-head{
+    h2 {
+        padding-left: 450px;
+        padding-bottom: 8%;
+        text-align: center;
+        padding-top: 10%;
+        color: black;
+        font-size: 2.8em;
+        line-height: 0.9em;
+        font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    }
+   } 
+
+
+   .contact-items{
+    h3{
+        font-size: 1.8em;
+        line-height: .9em;
+    }
+    input{
+        width: 100%!important;
+        height: 50px;
+        margin-bottom:25px;
+        border: 2px solid gray;
+        border-radius: 10px;
+    }
+    textarea{
+        border: 2px solid gray;
+        border-radius: 10px;
+        width: 100%!important;
+        height: 150px;
+    }
+    .c-btn {
+        margin-left: 50%;
+        background-color: #1abc9c;
+        border-radius: 30px;
+        margin-bottom: 20px;
+    }
+   }
+}
