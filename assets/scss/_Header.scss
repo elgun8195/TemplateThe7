@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+    .head{
+        a{
+            
+            text-decoration: none;
+        }
+        h1{
+            color: white;
+        }
+        .head-links{
+            padding-left: 500px;
+            a{
+                padding-left: 10%;
+                p{
+                    color: white;
+                }
+                p:hover{
+                    color: green;
+                    transition: 1s;
+                    transition-duration: 0s;
+                }
+            }
+        }
+    }

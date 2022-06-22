@@ -1,0 +1,41 @@
+#services {
+  padding-top: 10%;
+  .service {
+    .service-head {
+      h2 {
+        font-size: 2.8em;
+        line-height: 0.9em;
+        text-align: center;
+        font-family: "Montserrat", Helvetica, Arial, sans-serif;
+      }
+    }
+    .service-items { 
+      text-align: center;
+     .items{
+         padding-left: 5%;
+        .item-icon {
+            text-align: center;
+            i {
+              font-size: 50px;
+            }
+          }
+          h3 {
+            margin-top: 50px;
+            font-size: 1.8em;
+            line-height: 0.9em;
+            text-align: center;
+            font-family: "Montserrat", Helvetica, Arial, sans-serif;
+          }
+          p {
+            margin-top: 20px;
+            margin-bottom: 10px;
+            color: gray;
+          }
+          a {
+              margin-top: 10px;
+           text-align: center;
+          }
+     }
+    }
+  }
+}

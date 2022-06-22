@@ -1,0 +1,28 @@
+#work{
+    padding-top: 10%;
+    .work-head{
+        h2 {
+            padding-left: 450px;
+            text-align: center;
+            color: black;
+            font-size: 2.8em;
+            line-height: 0.9em;
+            font-family: "Montserrat", Helvetica, Arial, sans-serif;
+          }
+    }
+    .work-category{
+        padding-top: 5%;
+        padding-left: 400px;
+        padding-bottom: 5%;
+        letter-spacing: 15px;
+    }
+    .work-items{
+        padding-left: 2%;
+        img{
+            padding-left: 10px;
+            margin: 2%;
+            width: 370px;
+            border-radius: 7px !important;
+        }
+    }
+}
