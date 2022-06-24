@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elgun\\Desktop\\The 7\\The 7\\The 7.csproj": {}
+    "C:\\Users\\Elgun\\Desktop\\TemplateThe7\\The 7\\The 7\\The 7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elgun\\Desktop\\The 7\\The 7\\The 7.csproj": {
+    "C:\\Users\\Elgun\\Desktop\\TemplateThe7\\The 7\\The 7\\The 7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elgun\\Desktop\\The 7\\The 7\\The 7.csproj",
+        "projectUniqueName": "C:\\Users\\Elgun\\Desktop\\TemplateThe7\\The 7\\The 7\\The 7.csproj",
         "projectName": "The 7",
-        "projectPath": "C:\\Users\\Elgun\\Desktop\\The 7\\The 7\\The 7.csproj",
+        "projectPath": "C:\\Users\\Elgun\\Desktop\\TemplateThe7\\The 7\\The 7\\The 7.csproj",
         "packagesPath": "C:\\Users\\Elgun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elgun\\Desktop\\The 7\\The 7\\obj\\",
+        "outputPath": "C:\\Users\\Elgun\\Desktop\\TemplateThe7\\The 7\\The 7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elgun\\AppData\\Roaming\\NuGet\\NuGet.Config",
